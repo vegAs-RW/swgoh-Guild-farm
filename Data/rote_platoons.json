@@ -1,0 +1,652 @@
+{
+    "phase 1": {
+        "Corruscant" : [
+            {
+                "name": "General Skywalker",
+                "required_relic" : 5
+            },
+             {
+                "name": "BB-8",
+                "required_relic" : 5
+            },
+             {
+                "name": "C-3PO",
+                "required_relic" : 5
+            },
+             {
+                "name": "Chewbacca",
+                "required_relic" : 5
+            },
+             {
+                "name": "Grand Master Yoda",
+                "required_relic" : 5
+            },
+             {
+                "name": "R2-D2",
+                "required_relic" : 5
+            },
+             {
+                "name": "Ahsoka Tano (Fulcrum)",
+                "required_relic" : 5
+            },
+             {
+                "name": "Barriss Offee",
+                "required_relic" : 5
+            },
+             {
+                "name": "Jyn Erso",
+                "required_relic" : 5
+            },
+             {
+                "name": "L3-37",
+                "required_relic" : 5
+            },
+             {
+                "name": "The Armorer",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jedi Knight Luke Skywalker",
+                "required_relic" : 5
+            },
+            {
+                "name": "The Mandalorian (Beskar Armor)",
+                "required_relic" : 5
+            },
+            {
+                "name": "Han Solo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Commander Luke Skywalker",
+                "required_relic" : 5
+            },
+            {
+                "name": "Logray",
+                "required_relic" : 5
+            },
+            {
+                "name": "Rey (Jedi Training)",
+                "required_relic" : 5
+            },
+            {
+                "name": "Amilyn Holdo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Cody",
+                "required_relic" : 5
+            },
+            {
+                "name": "Hondo Ohnaka",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ki-Adi-Mundi",
+                "required_relic" : 5
+            },
+            {
+                "name": "Lobot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sabine Wren",
+                "required_relic" : 5
+            },
+            {
+                "name": "Zaalbar",
+                "required_relic" : 5
+            },
+            {
+                "name": "Hermit Yoda",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sana Starros",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jedi Knight Revan",
+                "required_relic" : 5
+            },
+            {
+                "name": "General Kenobi",
+                "required_relic" : 5
+            },
+            {
+                "name": "Threepio & Chewie",
+                "required_relic" : 5
+            },
+            {
+                "name": "Greef Karga",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jolee Bindo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Kuiil",
+                "required_relic" : 5
+            },
+            {
+                "name": "Padme Amidala",
+                "required_relic" : 5
+            },
+            {
+                "name": "Rebel Officer Leia Organa",
+                "required_relic" : 5
+            },
+            {
+                "name": "Teebo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Visas Marr",
+                "required_relic" : 5
+            }
+        ],
+        "Corellia" : [
+            {
+                "name": "Boba Fett, Scion of Jango",
+                "required_relic" : 5
+            },
+             {
+                "name": "C-3PO",
+                "required_relic" : 5
+            },
+             {
+                "name": "Commander Luke Skywalker",
+                "required_relic" : 5
+            },
+             {
+                "name": "Darth Malgus",
+                "required_relic" : 5
+            },
+             {
+                "name": "Grand Master Yoda",
+                "required_relic" : 5
+            },
+             {
+                "name": "R2-D2",
+                "required_relic" : 5
+            },
+             {
+                "name": "Admiral Piett",
+                "required_relic" : 5
+            },
+             {
+                "name": "Bossk",
+                "required_relic" : 5
+            },
+             {
+                "name": "Darth Maul",
+                "required_relic" : 5
+            },
+             {
+                "name": "Eeth Koth",
+                "required_relic" : 5
+            },
+             {
+                "name": "Ima-Gun Di",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jedi Knight Revan",
+                "required_relic" : 5
+            },
+            {
+                "name": "Logray",
+                "required_relic" : 5
+            },
+            {
+                "name": "Paploo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sana Starros",
+                "required_relic" : 5
+            },
+            {
+                "name": "Talia",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Revan",
+                "required_relic" : 5
+            },
+            {
+                "name": "Chewbacca",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Traya",
+                "required_relic" : 5
+            },
+            {
+                "name": "General Kenobi",
+                "required_relic" : 5
+            },
+            {
+                "name": "Han Solo",
+                "required_relic" : 5
+            },
+            {
+                "name": "The Mandalorian (Beskar Armor)",
+                "required_relic" : 5
+            },
+            {
+                "name": "BT-1",
+                "required_relic" : 5
+            },
+            {
+                "name": "Clone Sergeant - Phase I",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Sion",
+                "required_relic" : 5
+            },
+            {
+                "name": "Emperor Palpatine",
+                "required_relic" : 5
+            },
+            {
+                "name": "Imperial Probe Droid",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jolee Bindo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Rebel Officer Leia Organa",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sith Trooper",
+                "required_relic" : 5
+            },
+            {
+                "name": "Threepio & Chewie",
+                "required_relic" : 5
+            },
+            {
+                "name": "Commander Ahsoka Tano",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ben Solo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Geonosian Brood Alpha",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ki-Adi-Mundi",
+                "required_relic" : 5
+            },
+            {
+                "name": "Wat Tambor",
+                "required_relic" : 5
+            },
+            {
+                "name": "BB-8",
+                "required_relic" : 5
+            },
+            {
+                "name": "Colonel Starck",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Vader",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jawa Engineer",
+                "required_relic" : 5
+            },
+            {
+                "name": "Padme Amidala",
+                "required_relic" : 5
+            },
+            {
+                "name": "Poe Dameron",
+                "required_relic" : 5
+            },
+             {
+                "name": "Rey (Jedi Training)",
+                "required_relic" : 5
+            },
+             {
+                "name": "T3-M4",
+                "required_relic" : 5
+            }
+        ],
+         "Mustafar" : [
+            {
+                "name": "Darth Traya",
+                "required_relic" : 5
+            },
+             {
+                "name": "General Grevious",
+                "required_relic" : 5
+            },
+             {
+                "name": "0-0-0",
+                "required_relic" : 5
+            },
+             {
+                "name": "Darth Sidious",
+                "required_relic" : 5
+            },
+             {
+                "name": "Darth Sion",
+                "required_relic" : 5
+            },
+             {
+                "name": "Imperial Probe Droid",
+                "required_relic" : 5
+            },
+             {
+                "name": "Droideka",
+                "required_relic" : 5
+            },
+             {
+                "name": "IG-86",
+                "required_relic" : 5
+            },
+             {
+                "name": "Dengar",
+                "required_relic" : 5
+            },
+             {
+                "name": "Boba Fett",
+                "required_relic" : 5
+            },
+             {
+                "name": "Embo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sith Trooper",
+                "required_relic" : 5
+            },
+            {
+                "name": "Count Dooku",
+                "required_relic" : 5
+            },
+            {
+                "name": "Emperor Palpatine",
+                "required_relic" : 5
+            },
+            {
+                "name": "Grand Admiral Thrawn",
+                "required_relic" : 5
+            },
+            {
+                "name": "Canderous Ordo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Vader",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order Officer",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order SF Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ninth Sister",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jango Fett",
+                "required_relic" : 5
+            },
+            {
+                "name": "Mara Jade",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sith Assassin",
+                "required_relic" : 5
+            },
+            {
+                "name": "Imperial Super Commando",
+                "required_relic" : 5
+            },
+            {
+                "name": "B1 Battle Droid",
+                "required_relic" : 5
+            },
+            {
+                "name": "Tie Fighter Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Revan",
+                "required_relic" : 5
+            },
+            {
+                "name": "Wat Tambor",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ugnaught",
+                "required_relic" : 5
+            },
+            {
+                "name": "IG-88",
+                "required_relic" : 5
+            },
+            {
+                "name": "BT-1",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Maul",
+                "required_relic" : 5
+            },
+            {
+                "name": "Tusken Shaman",
+                "required_relic" : 5
+            },
+            {
+                "name": "Nute Gunray",
+                "required_relic" : 5
+            },
+            {
+                "name": "Fifth Brother",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order SF Tie Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Asajj Ventress",
+                "required_relic" : 5
+            },
+            {
+                "name": "Gamorrean Guard",
+                "required_relic" : 5
+            },
+            {
+                "name": "Dark Trooper",
+                "required_relic" : 5
+            }
+        ]
+    }, 
+    "phase 2": {
+        "Bracca" : [
+             {
+                "name": "Darth Traya",
+                "required_relic" : 6
+            },
+             {
+                "name": "General Grevious",
+                "required_relic" : 6
+            },
+             {
+                "name": "0-0-0",
+                "required_relic" : 6
+            },
+             {
+                "name": "Darth Sidious",
+                "required_relic" : 6
+            },
+             {
+                "name": "Darth Sion",
+                "required_relic" : 6
+            },
+             {
+                "name": "Imperial Probe Droid",
+                "required_relic" : 6
+            },
+             {
+                "name": "Droideka",
+                "required_relic" : 6
+            },
+             {
+                "name": "IG-86",
+                "required_relic" : 6
+            },
+             {
+                "name": "Dengar",
+                "required_relic" : 6
+            },
+             {
+                "name": "Boba Fett",
+                "required_relic" : 6
+            },
+             {
+                "name": "Embo",
+                "required_relic" : 6
+            },
+            {
+                "name": "Sith Trooper",
+                "required_relic" : 5
+            },
+            {
+                "name": "Count Dooku",
+                "required_relic" : 5
+            },
+            {
+                "name": "Emperor Palpatine",
+                "required_relic" : 5
+            },
+            {
+                "name": "Grand Admiral Thrawn",
+                "required_relic" : 5
+            },
+            {
+                "name": "Canderous Ordo",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Vader",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order Officer",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order SF Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ninth Sister",
+                "required_relic" : 5
+            },
+            {
+                "name": "Jango Fett",
+                "required_relic" : 5
+            },
+            {
+                "name": "Mara Jade",
+                "required_relic" : 5
+            },
+            {
+                "name": "Sith Assassin",
+                "required_relic" : 5
+            },
+            {
+                "name": "Imperial Super Commando",
+                "required_relic" : 5
+            },
+            {
+                "name": "B1 Battle Droid",
+                "required_relic" : 5
+            },
+            {
+                "name": "Tie Fighter Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Revan",
+                "required_relic" : 5
+            },
+            {
+                "name": "Wat Tambor",
+                "required_relic" : 5
+            },
+            {
+                "name": "Ugnaught",
+                "required_relic" : 5
+            },
+            {
+                "name": "IG-88",
+                "required_relic" : 5
+            },
+            {
+                "name": "BT-1",
+                "required_relic" : 5
+            },
+            {
+                "name": "Darth Maul",
+                "required_relic" : 5
+            },
+            {
+                "name": "Tusken Shaman",
+                "required_relic" : 5
+            },
+            {
+                "name": "Nute Gunray",
+                "required_relic" : 5
+            },
+            {
+                "name": "Fifth Brother",
+                "required_relic" : 5
+            },
+            {
+                "name": "First Order SF Tie Pilot",
+                "required_relic" : 5
+            },
+            {
+                "name": "Asajj Ventress",
+                "required_relic" : 5
+            },
+            {
+                "name": "Gamorrean Guard",
+                "required_relic" : 5
+            },
+            {
+                "name": "Dark Trooper",
+                "required_relic" : 5
+            }
+        ],
+        "Felucia" : [
+             
+        ],
+        "Geonosis" : [
+            
+        ]
+    }
+}
